@@ -1,5 +1,5 @@
 # ArduinoGpsLocation
-                    "Arduino":                                                                                                                                                                                                                                                                                                                          
+  .               "Arduino":                                                                                                                                                                                                                                                                              
 Se necesita instalar la libreria de Tiny.Gps y la libreria del dht                                                                                                                                        
                    "OBJETIVO":                                                                                                                                         
 Se conecto el sensor de GPS (NEO-6M-1-001) y un sensor DHT11. 
